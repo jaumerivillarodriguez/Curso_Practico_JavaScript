@@ -4,7 +4,7 @@ const input2 = document.querySelector('#calculo2');
 const btn = document.querySelector('#btnCalcular');
 const p = document.querySelector('#resultado');
 
-btn.addEventListener('click', btnOnclick);
+//btn.addEventListener('click', btnOnclick);
 
 
 function btnOnclick(){
